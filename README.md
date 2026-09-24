@@ -10,4 +10,4 @@ platforms, labs, and in-scope programs.
 
 ## Tools
 
-- [`tv-control`](/thedivyeshkhatri/tv-control) — discovers and controls Chromecast devices on the local network (volume control, casting media, playback control) using `pychromecast`. Useful groundwork for enumerating and interacting with IoT/smart-home devices during internal network assessments.
+- [`tv-control`](https://github.com/thedivyeshkhatri/tv-control) — discovers and controls Chromecast devices on the local network (volume control, casting media, playback control) using `pychromecast`. Useful groundwork for enumerating and interacting with IoT/smart-home devices during internal network assessments.
