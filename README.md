@@ -11,3 +11,4 @@ platforms, labs, and in-scope programs.
 ## Tools
 
 - [`tv-control`](https://github.com/thedivyeshkhatri/tv-control) — discovers and controls Chromecast devices on the local network (volume control, casting media, playback control) using `pychromecast`. Useful groundwork for enumerating and interacting with IoT/smart-home devices during internal network assessments.
+- [`privesc-auditor`](https://github.com/thedivyeshkhatri/privesc-auditor) — audits local Linux systems for common privilege-escalation misconfigurations and reports evidence, impact, and remediation without exploiting them.
